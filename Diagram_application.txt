@@ -2,4 +2,9 @@ use for draw diagram:
 RFFlow
 Draw.io
 ------
-xampp
+xampp  for database
+
+
+-- for uploading projects and file
+git bashe
+desktop github
